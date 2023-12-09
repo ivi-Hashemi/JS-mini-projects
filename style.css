@@ -1,0 +1,54 @@
+body{
+    font-family: 'Quicksand', sans-serif;
+    background: whitesmoke;
+    margin: 0;
+    text-align: center;
+}
+.container{
+    max-width: 500px;
+    background-color: white;
+    box-shadow: 0 0 10px black;
+    border-radius: 5px;
+    margin: 2rem auto;
+    padding: 1rem;
+}
+.tittle{
+    font-size: 3rem;
+    font-weight: bold;
+}
+#input{
+    width: 70%;
+    height: 2rem;
+    border: 0;
+    font-size: 1rem;
+    alignment-baseline: center;
+}
+#btn{
+    background-color: royalblue;
+    font-size: 1rem;
+    color: white;
+    border-radius: 5px;
+    padding: 7px 18px;
+    alignment-baseline: center;
+}
+img{
+    width: 100px;
+    height: 100px;
+}
+#temp{
+    font-size: 3rem;
+}
+#weather{
+    font-size: 2rem;
+}
+ul{
+    list-style: none;
+    display: flex;
+    padding: 0;
+    justify-content: center;
+}
+li{
+    background-color: whitesmoke;
+    margin: 10px;
+    padding: 10px;
+}
